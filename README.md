@@ -29,38 +29,61 @@ You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
+## Hi 👋, I'm Fajri.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+An information systems student who has programming skills and interested in mobile application development, especially Android using Flutter framework. I'm also able to create websites and design UI of an application. I'm happy and always open to learn new things and technologies.
 
-### Premium Partners
+### Tech Skills
 
--   **[Vehikl](https://vehikl.com/)**
--   **[Tighten Co.](https://tighten.co)**
--   **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
--   **[64 Robots](https://64robots.com)**
--   **[Cubet Techno Labs](https://cubettech.com)**
--   **[Cyber-Duck](https://cyber-duck.co.uk)**
--   **[Many](https://www.many.co.uk)**
--   **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
--   **[DevSquad](https://devsquad.com)**
--   **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
--   **[OP.GG](https://op.gg)**
--   **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
--   **[Lendio](https://lendio.com)**
+**Programming languange**
 
-## Contributing
+<p>
+  <a href="https://github.com/topics/java"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&color=016077&logo=Java&logoColor=white"></a>
+  <a href="https://github.com/topics/javascript"><img alt="Javascripts" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=Javascript&logoColor=white"></a>
+  <a href="https://github.com/topics/dart"><img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&color=045393&logo=Dart&logoColor=white"></a>
+  <a href="https://github.com/topics/python"><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=white"></a>
+  <a href="https://github.com/topics/php"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=PHP&logoColor=white"></a>
+</p>
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+**Framework**
 
-## Code of Conduct
+<p>
+  <a href="https://github.com/topics/flutter"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white"></a>
+  <a href="https://github.com/topics/codeigniter"><img alt="Codeigniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=CodeIgniter&logoColor=white"></a>
+  <a href="https://github.com/topics/flask"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=Flask&logoColor=white"></a>
+  <a href="https://github.com/topics/bootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=Bootstrap&logoColor=white"></a>
+</p>
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+**Database**
 
-## Security Vulnerabilities
+<p>
+  <a href="https://github.com/topics/mysql"><img alt="MySQL" src="https://img.shields.io/badge/mySQL-%2300f.svg?style=flat&logo=mySQL&logoColor=white"></a>
+  <a href="https://github.com/topics/sqlite"><img alt="SQlite" src="https://img.shields.io/badge/SQlite-%2307405e.svg?style=flat&logo=SQlite&logoColor=white"></a>
+  <a href="https://github.com/topics/firebase"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&color=F29D0D&logo=Firebase&logoColor=white"></a>
+</p>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+**UI/UX Design**
 
-## License
+<p>
+  <a href="https://github.com/topics/figma"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&color=09C47C&logo=Figma&logoColor=white"></a>
+</p>
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### Github Statistic
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajri-rasid1st&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajri-rasid1st&langs_count=7&hide=CSS,SCSS&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+### Reach me on
+
+<a href="https://www.linkedin.com/in/muhammad-fajri-rasid-26558114b">
+  <img align="left" alt="LinkedIn" title="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" />
+</a>
+<a href="https://www.instagram.com/fajri_rasid1st">
+  <img align="left" alt="Instagram" title="Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+</a>
+<a href="https://web.facebook.com/muh.fajrirasid91">
+  <img align="left" alt="Facebook" title="Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111398.png" />
+</a>
+<a href="https://twitter.com/FajriRasid">
+  <img align="left" alt="Twitter" title="Twitter" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111688.png" />
+</a>

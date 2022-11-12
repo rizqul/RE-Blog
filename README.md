@@ -70,8 +70,8 @@ An information systems student who has programming skills and interested in mobi
 
 ### Github Statistic
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajri-rasid1st&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajri-rasid1st&langs_count=7&hide=CSS,SCSS&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizqul&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizqul&langs_count=7&hide=CSS,SCSS&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Reach me on
 
